@@ -1,6 +1,7 @@
 set hlsearch
 set incsearch
 set inccommand=split
+"set inccommand=nosplit
 set hidden
 
 
