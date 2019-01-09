@@ -53,6 +53,13 @@ colorscheme solarized8
 
 
 "
+" mysticaltutor colorscheme
+"
+"call minpac#add('caksoylar/vim-mysticaltutor')
+"colorscheme mysticaltutor
+
+
+"
 " Source more scripts
 "
 runtime airline.vim
