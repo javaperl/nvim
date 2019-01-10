@@ -60,7 +60,7 @@ call minpac#add('airblade/vim-gitgutter')
 call minpac#add('tpope/vim-surround')
 call minpac#add('tpope/vim-repeat')
 call minpac#add('tpope/vim-scriptease', {'type': 'opt'})
-call minpac#add('ktakata/minpac', {'type': 'opt'})
+call minpac#add('k-takata/minpac', {'type': 'opt'})
 
 
 "
@@ -107,7 +107,7 @@ endif
 "
 call minpac#add('lifepillar/vim-solarized8')
 "syntax enable
-"set background=dark
+set background=dark
 "set background=light
 colorscheme solarized8
 "colorscheme solarized8_low
