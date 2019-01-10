@@ -125,6 +125,6 @@ colorscheme solarized8
 "
 " Source more scripts
 "
-runtime airline.vim
-"runtime base16-vim.vim
-"runtime vim-colorschemes.vim
+runtime source_airline.vim
+"runtime source_base16-vim.vim
+"runtime source_vim-colorschemes.vim
