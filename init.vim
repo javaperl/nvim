@@ -31,7 +31,6 @@ if has("autocmd")
 endif
 
 
-
 "
 " Invisible characters
 "
@@ -57,6 +56,7 @@ call minpac#add('radenling/vim-dispatch-neovim')
 call minpac#add('rust-lang/rust.vim')
 call minpac#add('machakann/vim-highlightedyank')
 call minpac#add('airblade/vim-gitgutter')
+call minpac#add('itchyny/lightline.vim')
 call minpac#add('tpope/vim-surround')
 call minpac#add('tpope/vim-repeat')
 call minpac#add('tpope/vim-scriptease', {'type': 'opt'})
@@ -125,6 +125,6 @@ colorscheme solarized8
 "
 " Source more scripts
 "
-runtime source_airline.vim
+"runtime source_airline.vim
 "runtime source_base16-vim.vim
 "runtime source_vim-colorschemes.vim
