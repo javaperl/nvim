@@ -133,6 +133,8 @@ colorscheme solarized8
 "
 " cscope
 " http://jhshi.me/2013/02/21/using-cscope-inside-vim/index.html#.XDzWmvxJmL4
+" use cscope -RUbq to generate cscope database
+" add cscope.* to .gitignore file
 " <ctrl-\> s: find all appearance of this symbol
 " <ctrl-\> g: go to the definition of this symbol
 " <ctrl-\> d: functions that called by this function
