@@ -36,7 +36,13 @@ endif
 "
 "set list
 "set nolist
-"set listchars=tab:▸\ ,eol:¬
+set listchars=tab:▸\ ,eol:¬
+
+
+"
+" Allow the . to execute once for each line of a visual selection
+"
+vnoremap . :normal .<CR>
 
 
 "
