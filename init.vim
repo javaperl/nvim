@@ -134,5 +134,6 @@ colorscheme solarized8
 "runtime source_airline.vim
 "runtime source_base16-vim.vim
 "runtime source_vim-colorschemes.vim
-runtime source_pear-tree.vim
+"runtime source_pear-tree.vim
 "runtime source_cscope.vim
+runtime source_vimade.vim
